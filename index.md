@@ -1,6 +1,12 @@
-# This is an `<h1>` header
-- Add largest header
+# Markdown
+- ### Add header example
 
-- Add image
+- Add image `![Alt Text](https://octodex.github.com/images/yaktocat.png)`
 
-![alt-text for image](https://octodex.github.com/images/yaktocat.png)
+   <img src="https://octodex.github.com/images/yaktocat.png" alt="Alt Text" width="100">
+
+- Add code example
+
+   ``` swift
+   print("Hello, world!")
+   ```
