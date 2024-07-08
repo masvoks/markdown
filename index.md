@@ -3,7 +3,7 @@
 
 - Add image `![Alt Text](https://octodex.github.com/images/yaktocat.png)`
 
-   <img src="https://octodex.github.com/images/yaktocat.png" alt="Alt Text" width="100">
+   <img src=https://octodex.github.com/images/yaktocat.png alt=AltText width=100> <!-- align=right -->
 
 - Add code example
 
